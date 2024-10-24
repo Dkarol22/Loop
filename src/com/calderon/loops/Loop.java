@@ -1,15 +1,19 @@
 package com.calderon.loops;
 
+import java.util.Scanner;
+
 public class Loop {
 
 	public void init() {
 	// loopWhite();
 	//	loopDoWhite();
-loopFor();
-	
+		
+	//	loopFor() ;
+		 
+		
 	}
 
-	 private void loopFor() {
+	private void loopFor() {
 		int i,j,k;
 		i = j = k = 0;
 		for (i=0; i<10; i++) {
